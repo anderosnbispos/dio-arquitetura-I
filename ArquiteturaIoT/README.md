@@ -66,5 +66,4 @@ https://developer.ibm.com/br/technologies/iot/articles/iot-mqtt-why-good-for-iot
 
 ### Modelo Publish/Subscribe
 
-
-
+![IOT](https://raw.githubusercontent.com/anderosnbispos/dio-arquitetura-I/master/ArquiteturaIoT/PushSubscribe.png)
